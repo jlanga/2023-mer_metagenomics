@@ -1,4 +1,5 @@
 #!/bin/env bash
+
 function pause {
     while true; do
         sleep 60
