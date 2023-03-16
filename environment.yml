@@ -679,3 +679,5 @@ dependencies:
   - zstandard=0.19.0
   - zstd=1.5.2
   - bash_kernel
+  - tzdata
+  - csvkit
