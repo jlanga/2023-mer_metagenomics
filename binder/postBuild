@@ -1,7 +1,9 @@
+#!/usr/bin/env bash
+
 set -e
 
-function pause {
-    while true; do
+pause() {
+while true; do
         sleep 60
     done
 }
