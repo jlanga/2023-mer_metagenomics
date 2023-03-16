@@ -1,5 +1,7 @@
 #!/bin/env bash
 
+set -euo pipefail
+
 function pause {
     while true; do
         sleep 60
