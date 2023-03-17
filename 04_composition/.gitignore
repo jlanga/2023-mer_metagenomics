@@ -1,1 +1,5 @@
-**/*.ipynb_checkpoints/
+../.ipynb_checkpoints/
+../01_quality_control/.ipynb_checkpoints/
+../02_diversity/.ipynb_checkpoints/
+../03_taxonomy/.ipynb_checkpoints/
+../04_composition/.ipynb_checkpoints/
