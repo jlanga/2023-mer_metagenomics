@@ -2,12 +2,4 @@
 
 set -e
 
-pause() {
-while true; do
-        sleep 60
-    done
-}
-
-export TZ=Europe/Madrid
-
 pip install -U "jupyter-server<2.0.0"

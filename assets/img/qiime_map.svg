@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="119.05374mm"
+   height="48.599522mm"
+   viewBox="0 0 119.05374 48.599522"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   sodipodi:docname="qiime_map.svg"
+   inkscape:export-filename="../e62ff589/qiime_map.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.0708779"
+     inkscape:cx="62.098583"
+     inkscape:cy="110.65687"
+     inkscape:window-width="1846"
+     inkscape:window-height="1016"
+     inkscape:window-x="74"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="-34.395836,302.12124"
+       orientation="0,793.70079"
+       id="guide190"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="175.60418,302.12124"
+       orientation="1122.5197,0"
+       id="guide192"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="175.60418,5.1212245"
+       orientation="0,-793.70079"
+       id="guide194"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-34.395836,5.1212245"
+       orientation="-1122.5197,0"
+       id="guide196"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid198"
+       originx="-50.270835"
+       originy="-10.544231" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606599"
+       markerHeight="6.7071061"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path5057"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-34.395836,-5.2525644)">
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script';stroke-width:0.264583"
+       x="77.688301"
+       y="8.3386784"
+       id="text254"><tspan
+         sodipodi:role="line"
+         id="tspan252"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="77.688301"
+         y="8.3386784">1. Import</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="77.688301"
+         y="13.648629"
+         id="tspan306">2. DEMUX</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="77.688301"
+         y="18.95858"
+         id="tspan310">3. DADA2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script';stroke-width:0.264583"
+       x="34.395836"
+       y="37.041668"
+       id="text314"><tspan
+         sodipodi:role="line"
+         id="tspan312"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="34.395836"
+         y="37.041668">4. Diversity</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="34.395836"
+         y="42.35162"
+         id="tspan316">    4.1 Phylogeny</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="34.395836"
+         y="47.661568"
+         id="tspan318">    4.2 Alpha diversity</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="34.395836"
+         y="52.971519"
+         id="tspan320">    4.3 Beta diversity</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script';stroke-width:0.264583"
+       x="79.255135"
+       y="37.364124"
+       id="text378"><tspan
+         sodipodi:role="line"
+         id="tspan376"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans;-inkscape-font-specification:sans;stroke-width:0.264583"
+         x="79.255135"
+         y="37.364124">5. Taxonomy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script';stroke-width:0.264583"
+       x="121.98692"
+       y="36.830826"
+       id="text382"><tspan
+         sodipodi:role="line"
+         id="tspan380"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans;-inkscape-font-specification:sans;stroke-width:0.264583"
+         x="121.98692"
+         y="36.830826">6. Composition</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1)"
+       d="M 85.989582,22.489583 51.593749,33.072916"
+       id="path503" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1)"
+       d="M 88.635416,22.489583 V 33.072916"
+       id="path1308" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1)"
+       d="M 91.281249,22.489583 124.35417,33.072916"
+       id="path1310" />
+  </g>
+</svg>
