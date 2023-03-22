@@ -1,2 +1,8 @@
 *.ipynb_checkpoints*
 .Rproj.user
+.bash_history
+.cache/
+.ipython/
+.jupyter-server-log.txt
+.jupyter/
+.local/
